@@ -1,0 +1,48 @@
+body {
+  background-color: #f0f3ff;
+}
+
+/* ===== Start: header ===== */
+/* nav  */
+.active {
+  color: #078107 !important;
+}
+/* ===== End: header ===== */
+
+/* ===== Start: Hero section ===== */
+.bannar-container {
+  max-height: 100vh;
+  height: 90vh;
+}
+.banner-heading {
+  font-size: 5rem;
+}
+
+.banner-heading,
+.bannar-subtitle {
+  color: #8b8b8b;
+}
+.banner-img {
+  max-width: 700px;
+}
+/* ===== End: Hero section ===== */
+
+/* ===== Start: Card SEctoin ===== */
+.card {
+  border: 2px solid #f0b64c;
+  /* border-radius: 8px; */
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+/* ===== End: Card SEctoin ===== */
+
+/* ===== Start: Faq / Accordion ===== */
+.accordion-button:not(.collapsed){
+    color: #c5850e;
+}
+/* ===== End: Faq / Accordion ===== */
+
+/* ===== Start: footer ===== */
+footer {
+    background-color: #cc890ed5;
+}
+/* ===== End: footer ===== */

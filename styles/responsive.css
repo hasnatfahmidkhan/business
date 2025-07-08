@@ -1,0 +1,44 @@
+/* ===== Start: Hero section ===== */
+
+@media only screen and (max-width: 768px) {
+  .bannar-container {
+    height: 100vh;
+  }
+
+  .banner-heading {
+    font-size: 2.5rem;
+  }
+  .bannar-subtitle {
+    font-size: 1.3rem;
+  }
+
+  .bannar-content .bannar-text {
+    font-size: 0.8rem;
+  }
+  .banner-img {
+    width: 80%;
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .bannar-container {
+    height: 100vh;
+  }
+
+  .banner-heading {
+    font-size: 2.5rem;
+  }
+  .bannar-subtitle {
+    font-size: 1.3rem;
+  }
+
+  .bannar-content .bannar-text {
+    font-size: 0.8rem;
+  }
+  .banner-img {
+    width: 80%;
+    margin: 0 !important;
+  }
+}
+/* ===== End: Hero section ===== */
