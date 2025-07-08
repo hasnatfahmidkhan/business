@@ -52,23 +52,19 @@ body {
 footer {
   background: #070707e7;
 }
-/* ===== End: footer ===== */
-/* ===== Start: footer ===== */
+
 footer h2,
 footer h3,
 footer h4 {
   color: #fff;
 }
-/* ===== End: footer ===== */
 
-/* ===== Start: footer ===== */
 footer p,
 a,
 .digital-rights {
   color: #c7c7c7;
 }
-/* ===== End: footer ===== */
-/* ===== Start: footer ===== */
+
 footer .btn-color {
   background: #f0b64c;
   transition: all .5s ease;
